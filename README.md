@@ -6,6 +6,9 @@ Nice to meet you, dear visitor !
 
 ## My stats
 <img align="center" alt="Dynnammo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dynnammo&show_icons=true&hide_border=true" />
-<!-- - 📫 How to reach me 
+
+## 📫 How to reach me 
+[website]: https://blog.dynnammo.com/
+[linkedin]: https://www.linkedin.com/in/baptiste-thivend/
 - ⚡ Fun fact: ...
 -->
