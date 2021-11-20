@@ -3,6 +3,7 @@ Nice to meet you, dear visitor !
 
 - 🔭 I’m currently working at [Open Source Politics](opensourcepolitics.eu)
 - 👯 I’m looking to collaborate on open-source projects around **data analysis** like [Metabase](github.com/metabase/metabase) or [Matomo](https://github.com/matomo-org/matomo) and **democracy** like [Decidim](github.com/decidim/decidim)
+- 🎲 On a side project I develop a game called [Treffen](github.com/Dynnammo/treffen) which aims to make people meet at partys or any type of meetings (inspired by the french game [Killer party](espritjeu.com/killer-party.html). 
 
 ## My stats
 <img align="center" alt="Dynnammo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dynnammo&show_icons=true&hide_border=true" />
