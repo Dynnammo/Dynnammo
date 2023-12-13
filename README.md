@@ -1,9 +1,9 @@
 ### Hi there 👋
-Nice to meet you, dear visitor !
+Nice to meet you, dear visitor!
 
-- 🔭 I’m currently working at [Open Source Politics](opensourcepolitics.eu)
-- 👯 I’m looking to collaborate on open-source projects around **data analysis** like [Metabase](github.com/metabase/metabase) or [Matomo](https://github.com/matomo-org/matomo) and **democracy** like [Decidim](github.com/decidim/decidim)
-- 🎲 On a side project I develop a game called [Treffen](github.com/Dynnammo/treffen) which aims to make people meet at partys or any type of meetings (inspired by the french game [Killer party](espritjeu.com/killer-party.html). 
+- 🔭 I’m currently working at [Open Source Politics](https://opensourcepolitics.eu)
+- 👯 I’m looking to collaborate on open-source projects around **data analysis** like [Metabase](https://github.com/metabase/metabase) or [Matomo](https://github.com/matomo-org/matomo) and **democracy** like [Decidim](https://github.com/decidim/decidim)
+- 🎲 On a side project I develop a game called [Treffen](https://github.com/Dynnammo/treffen) which aims to make people meet at partys or any type of meetings (inspired by the french game [Killer party](https://espritjeu.com/killer-party.html)). 
 
 ## 📫 How to reach me 
 [<img align="left" alt="audhiaprilliant.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
