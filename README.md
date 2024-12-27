@@ -1,8 +1,8 @@
 ### Hi there 👋
 Nice to meet you, dear visitor !
 
-- 🔭 I’m currently working at [Open Source Politics](opensourcepolitics.eu)
-- 👯 I’m looking to collaborate on open-source projects around **data analysis** like [Metabase](github.com/metabase/metabase) or [Matomo](https://github.com/matomo-org/matomo) and **democracy** like [Decidim](github.com/decidim/decidim)
+- 🔭 I’m currently working at [Education Nationale](https://www.education.gouv.fr/)
+- 👯 I worked on open-source projects related to **data analysis** like [Metabase](github.com/metabase/metabase) or [Matomo](https://github.com/matomo-org/matomo) and **democracy** like [Decidim](github.com/decidim/decidim)
 - 🎲 On a side project I develop a game called [Treffen](github.com/Dynnammo/treffen) which aims to make people meet at partys or any type of meetings (inspired by the french game [Killer party](espritjeu.com/killer-party.html). 
 
 ## 📫 How to reach me 
